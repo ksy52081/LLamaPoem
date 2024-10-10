@@ -3,4 +3,4 @@ openai
 langchain-openai
 langchain_community
 streamlit
-ctransformer
+ctransformers
